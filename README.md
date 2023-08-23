@@ -1,5 +1,5 @@
 # PRODIGY_ML_04
-# 🖐 Hand Gesture Recognition 🤚
+# 🖐 Hand Gesture Recognition using OpenCV🤚
 
 Welcome to my adorable Hnd Gesture Recognition project! This project is all about teaching computers to count fingers and understand hand gestures. Whether you're showing off your counting skills or playing rock-paper-scissors, we've got you covered! 🌟
 
